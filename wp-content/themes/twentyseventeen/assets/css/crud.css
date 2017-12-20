@@ -1,0 +1,9 @@
+
+.entry-header { 
+  display:none; 
+}
+
+#gMap {
+  display: block;
+  margin-top: 3em;
+}
